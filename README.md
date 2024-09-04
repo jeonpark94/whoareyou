@@ -1,5 +1,9 @@
 # Text-Based RPG Game
 
+## Work-in-progress
+
+This project is currently a work in progress and I aim to achieve everything I have setout in this README.
+
 ## Overview
 
 Welcome to the **Text-Based RPG Game**! This is a personal project created in Java, designed as a text-based role-playing game (RPG). The game features a classic RPG experience where players can interact with a rich storyline, explore different environments, and engage in combat.
@@ -17,7 +21,7 @@ This project is a part of my portfolio and represents the beginning of my journe
 ## Technologies
 
 - **Programming Language**: Java
-- **Development Environment**: [Your IDE] (e.g., IntelliJ IDEA, vscode)
+- **Development Environment**: vscode
 - **Version Control**: Git and GitHub
 
 ## Getting Started
