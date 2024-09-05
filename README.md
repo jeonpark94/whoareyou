@@ -6,17 +6,15 @@ This project is currently a work in progress and I aim to achieve everything I h
 
 ## Overview
 
-Welcome to the **Text-Based RPG Game**! This is a personal project created in Java, designed as a text-based role-playing game (RPG). The game features a classic RPG experience where players can interact with a rich storyline, explore different environments, and engage in combat.
+Welcome to **Who are you?**! This is a personal project created in Java, designed as a mini text-based role-playing game (RPG). The game features a classic RPG experience where players can interact with a  storyline, explore different paths, and be rewarded with a personality type reading at the end.
 
 This project is a part of my portfolio and represents the beginning of my journey into game development. The aim is to showcase my skills in Java programming, object-oriented design, and problem-solving through game development.
 
 ## Features
 
 - **Interactive Storyline**: Immerse yourself in a captivating story with various quests and challenges.
-- **Character Creation**: Customize your character with different attributes and abilities.
-- **Combat System**: Engage in turn-based combat with enemies using strategic decisions.
-- **Exploration**: Navigate through different locations and uncover hidden secrets.
 - **Inventory Management**: Collect and manage items, weapons, and equipment.
+- **Personality Type**: Based on your playthrough, a personality type will be designated to you at the end.
 
 ## Technologies
 
