@@ -1,4 +1,4 @@
-# Text-Based RPG Game
+# Who are you?
 
 ## Work-in-progress
 
@@ -6,7 +6,7 @@ This project is currently a work in progress and I aim to achieve everything I h
 
 ## Overview
 
-Welcome to **Who are you?**! This is a personal project created in Java, designed as a mini text-based role-playing game (RPG). The game features a classic RPG experience where players can interact with a  storyline, explore different paths, and be rewarded with a personality type reading at the end.
+Welcome to **Who are you?** This is a personal project created in Java, designed as a mini text-based role-playing game (RPG). The game features a classic RPG experience where players can interact with a  storyline, explore different paths, and be rewarded with a personality type reading at the end.
 
 This project is a part of my portfolio and represents the beginning of my journey into game development. The aim is to showcase my skills in Java programming, object-oriented design, and problem-solving through game development.
 
