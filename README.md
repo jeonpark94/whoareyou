@@ -18,6 +18,6 @@ This entire project was created using a tutorial by RyiSnow
 
 https://www.youtube.com/@RyiSnow
 
-1. **Clone the Repository**:
+## Clone the Repository**
    ```bash
    git clone https://github.com/jeonpark94/whoareyou.git
